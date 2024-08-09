@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "d:\\workspaceWD\\wbs-exercises\\Week-1\\JavaScript Basics\\objects-exericses",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
